@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi my name is Aarjav.
+Hi my name is Aarjav. I'm a Sophomore pursuing my undergaduate degree at GSFC University.
 <!--
 **AarjavJani/AarjavJani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
