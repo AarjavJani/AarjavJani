@@ -5,8 +5,8 @@ I'm currently pursuing my Undergaduate degree in Computer Science and Engineerin
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/janiaarjav/" target="blank">linked in</a>
-<a href="https://www.kaggle.com/janiaarjav" target="blank">Kaggle</a>
+<a href="https://www.linkedin.com/in/janiaarjav/" target="blank" alt="Link to my Linkedin profile."><img align="center" src="Logos/linked-in-alt.svg" alt="Linkedin logo" height="35" width="45" /></a>
+<a href="https://www.kaggle.com/janiaarjav" target="blank" alt="Link to my Kaggle profile."><img align="center" src="Logos/kaggle.svg" alt="Kaggle Logo" height="35" width="45" /></a>
 </p>
 <!--
 **AarjavJani/AarjavJani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
