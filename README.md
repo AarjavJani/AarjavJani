@@ -5,9 +5,7 @@ I'm currently pursuing my Undergaduate degree in Computer Science and Engineerin
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/janiaarjav" target="blank"><img align="center" src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/linked-in-alt.svg" alt="www.linkedin.com/in/rajjanicodes" height="35" width="45" /></a>
-<a href="https://kaggle.com/rajjanicodes" target="blank"><img align="center" src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/kaggle.svg" alt="rajjanicodes" height="35" width="45" /></a>
-<a href="https://twitter.com/@rajjanicodes" target="blank"><img align="center" src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/twitter.svg" alt="@rajjanicodes" height="35" width="45"/></a>
+<a href="www.linkedin.com/in/janiaarjav" target="blank">linked in</a>
 </p>
 <!--
 **AarjavJani/AarjavJani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
