@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi my name is Aarjav. I'm a Sophomore at GSFC University.
+Hi my name is Aarjav. I'm a Junior at GSFC University.
 I'm currently pursuing my Undergaduate degree in Computer Science and Engineering.
 - 📫 Reach me at **janiaarjav@gmail.com**
 <br>
